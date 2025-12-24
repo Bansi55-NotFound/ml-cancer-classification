@@ -1,23 +1,22 @@
-# Cancer Classification using Logistic Regression
+# Machine Learning Classification Projects
 
-This project demonstrates a binary classification model to predict malignant vs benign cancer cases using Logistic Regression.
+This repository contains end-to-end machine learning classification projects built using Python and scikit-learn.
 
-## Approach
-- Train/Test split
-- Feature scaling using StandardScaler
-- Logistic Regression model training
-- Model evaluation using:
-  - Confusion Matrix
-  - Precision, Recall, Accuracy
-  - ROC–AUC
+## Projects
 
-## Results
-- High recall for cancer detection
-- ROC–AUC score ≈ 0.99, indicating strong class separation
+### 1. Cancer Classification
+- Logistic Regression model
+- Evaluation using confusion matrix, precision, recall, accuracy, ROC–AUC
+- Focus on medical error analysis
 
-## Tools & Libraries
+### 2. Heart Disease Prediction
+- Logistic Regression model
+- Feature scaling and proper train/test split
+- Evaluation using accuracy, precision, recall, ROC–AUC
+
+## Tools & Skills
 - Python
-- NumPy
-- Pandas
+- Pandas, NumPy
 - scikit-learn
-- Jupyter Notebook
+- Model evaluation and error analysis
+- Git & GitHub
